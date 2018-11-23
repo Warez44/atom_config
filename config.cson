@@ -1,0 +1,68 @@
+"*":
+  core:
+    disabledPackages: [
+      "snippets"
+    ]
+  editor:
+    tabLength: 4
+    tabType: "hard"
+  "exception-reporting":
+    userId: "fc8ed3a2-e3ad-4325-b726-36e6f94b306c"
+  linter: {}
+  "linter-ui-default": {}
+  "norminette-linter":
+    rules_CheckAlignement: true
+    rules_CheckArgumentSpacing: true
+    rules_CheckBeginningOfLine: true
+    rules_CheckBlock: true
+    rules_CheckBracketSpacing: true
+    rules_CheckCallSpacing: true
+    rules_CheckCase: true
+    rules_CheckColumnLength: true
+    rules_CheckComma: true
+    rules_CheckCommentsFormat: true
+    rules_CheckCommentsPlacement: true
+    rules_CheckControlStructure: true
+    rules_CheckCppComment: true
+    rules_CheckDeclarationCount: true
+    rules_CheckDeclarationInstanciation: true
+    rules_CheckDeclarationPlacement: true
+    rules_CheckDefine: true
+    rules_CheckDoubleInclusion: true
+    rules_CheckElseIf: true
+    rules_CheckEmptyLine: true
+    rules_CheckEndOfLine: true
+    rules_CheckFilename: true
+    rules_CheckForbiddenKeyword: true
+    rules_CheckForbiddenSourceHeader: true
+    rules_CheckFunctionNumber: true
+    rules_CheckFunctionSpacing: true
+    rules_CheckGlobalTypePrefixName: true
+    rules_CheckInclude: true
+    rules_CheckIncludesBeforeFirstInstruction: true
+    rules_CheckIndentationInsideFunction: true
+    rules_CheckIndentationMultiline: true
+    rules_CheckIndentationOutsideFunction: true
+    rules_CheckKeywordSpacing: true
+    rules_CheckMultipleAssignation: true
+    rules_CheckMultipleEmptyLines: true
+    rules_CheckMultipleSpaces: true
+    rules_CheckNamedParameters: true
+    rules_CheckNestedTernary: true
+    rules_CheckNoArgFunction: true
+    rules_CheckNumberOfLine: true
+    rules_CheckNumberOfVariables: true
+    rules_CheckOneInstructionPerLine: true
+    rules_CheckOperatorSpacing: true
+    rules_CheckParametersNumber: true
+    rules_CheckParentSpacing: true
+    rules_CheckPreprocessorIndentation: true
+    rules_CheckReturnParentheses: true
+    rules_CheckSeparationChar: true
+    rules_CheckSpaceBetweenFunctions: true
+    rules_CheckTernaryOperator: true
+    rules_CheckTopCommentHeader: true
+    rules_CheckTypeDeclarationSpacing: true
+    rules_CheckTypePrefixName: true
+    rules_CheckUnaryOperator: true
+    rules_CheckVla: true

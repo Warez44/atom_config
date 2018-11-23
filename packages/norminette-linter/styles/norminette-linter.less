@@ -1,0 +1,23 @@
+// The ui-variables file is provided by base themes provided by Atom.
+//
+// See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
+// for a full listing of what's available.
+@import "ui-variables";
+
+atom-text-editor .linter-highlight, .linter-highlight {
+  &.norm {
+    /* Style for Message Badges */
+    &:not(.line-number) {
+      background-color: white;
+      color: black;
+    }
+    /* Style for Gutter */
+    .linter-gutter {
+      color: white;
+    }
+    /* Style for the text editor highlight */
+    .region {
+      border-bottom: 1px dashed #ABB2C0;
+    }
+  }
+}
